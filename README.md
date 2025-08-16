@@ -1,1 +1,2 @@
-# strays-dotfiles
+# Stray's Dotfiles
+TODO: readme
